@@ -1,0 +1,16 @@
+# PyTorch (install separately with CUDA index, see README)
+# torch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2
+
+numpy
+pandas
+scikit-learn
+tqdm
+timm
+einops
+tabulate
+pytz
+matplotlib
+
+# optional: hyper-parameter search (wfa_main/run/hyper_search.py)
+optuna
+pytorch_metric_learning
