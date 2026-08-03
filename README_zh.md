@@ -76,7 +76,7 @@ do
 done
 ```
 
-**所有规范化好的数据可以在此处下载：[https://zenodo.org/uploads/21769044](https://zenodo.org/uploads/21769044)**
+**所有规范化好的数据可以在此处下载：[https://zenodo.org/uploads/18173326](https://zenodo.org/uploads/18173326)**
 
 ### 2.2 数据集划分
 
